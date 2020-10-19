@@ -1,0 +1,48 @@
+/* Type */
+
+body {
+	line-height: 0em;
+	color: black;
+	font-size: 3em;
+	font-weight: bolder;
+	font-family: monospace;
+}
+.new-color {
+	display: inline-block;
+    transform: skewY(124deg);
+    text-decoration: overline;
+    filter: blur(5px);
+}
+.BIG {    
+	color: crimson;
+    font-family: impact;
+    font-size: 4em;
+    text-decoration: line-through;
+    font-kerning: normal;
+    text-shadow: -19px 3px black;
+}
+.diff {
+	display: inline-block;
+    color: black;
+    font-size: 15em;
+    font-family: "Helvetica";
+}
+.erent {
+	display: inline-block;
+    color: black;
+    font-size: 15em;
+    font-family: "Helvetica";
+    transform: scale(-1, 1);
+    letter-spacing: 169px;
+    padding-top: .5em;
+}
+.OHMAGAAA {
+	display: inline-block;
+    transform: skewX(0deg);
+    font-size: 12em;
+    padding-top: .5em;
+    letter-spacing: -176px;
+    white-space: nowrap;
+    font-family: "Helvetica";
+
+}
